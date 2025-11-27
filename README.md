@@ -1,5 +1,5 @@
-# Dise-o-de-PCBs
-En este apartado se ilustran algunos de los diseños que he elaborado usando el programa Fusion 360, que van desde el diseño de las liberias para algunos componentes, el esquematico, el diseño del layout  y modelo 3D de la placa final 
+# Interfases
+En este apartado se ilustran algunos diseños de interfases web que he elaborado usando visual estudio, HTML.CSS yJs, ademas el desarrollo de una aplicacion movil compatible con sistemas android usando andriod estudio para controlar un robot con WIFI
 
-### Diseño de un detector de metales.
-### Diseño del esquematico
+### APlicacion Movil.
+
