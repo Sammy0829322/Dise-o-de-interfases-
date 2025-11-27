@@ -1,0 +1,7 @@
+echo "# Diseño de interfaces" >> README.md 
+git init 
+git add README.md 
+git commit -m "primera confirmación" 
+git branch -M main 
+git remote add origin https://github.com/Sammy0829322/Diseño
+ de interfaces.git git push -u origin main
