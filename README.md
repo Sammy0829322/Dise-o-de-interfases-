@@ -34,6 +34,8 @@ Interfaz y Mapeo 3D: Servidor Vite (JavaScript,
 HTML, CSS) con renderizado en THREE.js y
 WebGL.
 ### fotos del vehiculo 
-<img src="https://github.com/Sammy0829322/Dise-o-de-interfases-/blob/main/Imagen%20de%20WhatsApp%202025-11-27%20a%20las%2009.34.09_a7203990.jpg?raw=true" width="900">
+<img src="https://github.com/Sammy0829322/Dise-o-de-interfases-/blob/main/Vehiculo_OASIS.jpeg?raw=true" width="900">
+
+<img src="https://github.com/Sammy0829322/Dise-o-de-interfases-/blob/main/PINZA_ROBOTICA_OASIS.jpeg?raw=true" width="900">
 
 [Da click para conocer la interfaz de O.A.S.I.S](https://sammy0829322.github.io/prueba-vite/)
